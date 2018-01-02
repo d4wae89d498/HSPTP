@@ -1,0 +1,7 @@
+﻿  HSPTP_FINAL.cpp
+c:\users\fauss\source\repos\hsptp_final\hsptp_final\hsptp_final.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\fauss\source\repos\hsptp_final\hsptp_final\hsptp_final.cpp(79): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\fauss\source\repos\hsptp_final\hsptp_final\hsptp_final.cpp(80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\fauss\source\repos\hsptp_final\hsptp_final\hsptp_final.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\fauss\source\repos\hsptp_final\hsptp_final\hsptp_final.cpp(134): warning C4018: '<': signed/unsigned mismatch
+  HSPTP_FINAL.vcxproj -> C:\Users\fauss\source\repos\HSPTP_FINAL\Debug\HSPTP_FINAL.exe
